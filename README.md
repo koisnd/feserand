@@ -8,6 +8,6 @@
 
 * sample.py を確認ください。(please see sample.py)
 
-## 参考 (Reffernce from)
+## 参考 (Reference from)
 
 * https://www.pegasusknight.com/mb/fe4/et_rand1.html
